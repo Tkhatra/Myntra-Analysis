@@ -17,7 +17,5 @@ This project analyzes Myntra's product data using **Python, Pandas, NumPy, and M
 - Matplotlib & Seaborn  
 - Jupyter Notebook  
 
-## 📊 Visualizations  
-![Sample Output](your-image-link)  
 
 🔗 **View Notebook on GitHub**: [Myntra Analysis Notebook](https://github.com/Tkhatra/Myntra-Analysis/blob/main/Myntra%20Analysis-checkpoint.ipynb)  
