@@ -2,10 +2,6 @@
 
 This project analyzes Myntra's product data using **Python, Pandas, NumPy, and Matplotlib**.  
 
-## 📂 Dataset  
-- Source: Myntra dataset (`Myntra dataset.xlsx`)  
-- Contains product details, pricing, and ratings.  
-
 ## 🔍 Key Insights  
 ✔ Category-wise product distribution  
 ✔ Top-rated brands and products  
